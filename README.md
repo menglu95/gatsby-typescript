@@ -11,7 +11,7 @@
 
 This is a starter kit for [Gatsby.js](https://www.gatsbyjs.org/) websites written in TypeScript. It includes the bare essentials for you to get started (styling, Markdown parsing, minimal toolset).
 
-## 🗒️ Features
+## Features
 
 - TypeScript
 - ESLint (with custom ESLint rules)
@@ -19,7 +19,7 @@ This is a starter kit for [Gatsby.js](https://www.gatsbyjs.org/) websites writte
 - Basic component structure
 - Styling with [emotion](https://emotion.sh/)
 
-## 🚀 Quick start
+## Quick start
 
 > A nodejs >= 6.0.0 setup with [yarn](https://yarnpkg.com/) is recommended.
 
@@ -85,10 +85,10 @@ This is a starter kit for [Gatsby.js](https://www.gatsbyjs.org/) websites writte
     yarn deploy
     ```
 
-## ❤️ Credits
+## Credits
 
 Built with [Gatsby](https://www.gatsbyjs.org/) - the blazing-fast static site generator for [React](https://facebook.github.io/react/).
 
-## 💫 Deploy
+## Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/resir014/gatsby-starter-typescript-plus)
